@@ -12,4 +12,4 @@
 
 ## Here is my settings:
 
-**python train.py --name twj --fp16 --extra_Google --DA --color_jitter --circle --cosface --contrast --loss_merge --share --batchsize 32 --views 3 --erasing_p 0.5 --droprate 0.5 --pool gem**
+**python train.py --name twj --fp16 --extra_Google --DA --color_jitter --circle --cosface --contrast --loss_merge --share --batchsize 32 --views 3 --erasing_p 0.5 --droprate 0.5 --pool gem --train_all --use_NAS**

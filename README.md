@@ -4,6 +4,8 @@
 
 **Student Name: Wenjun Tang**
 
+**Student ID: MC465097**
+
 **Score: Recall@1: 1.24; Recall@5: 3.64; Recall@10: 6.48**
 
 ## I use train.py to train the model, test.py to test the model given the test data, and test_ACM.py to generate the ACM result 'answer.txt'

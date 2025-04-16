@@ -8,7 +8,7 @@
 
 **Score: Recall@1: 1.24; Recall@5: 3.64; Recall@10: 6.48**
 
-## I use train.py to train the model, test.py to test the model given the test data, and test_ACM.py to generate the ACM result 'answer.txt'
+## I use _train.py_ to train the model, _test.py_ to test the model given the test data, and _test_ACM.py_ to generate the ACM result 'answer.txt'
 
 ## Here is my settings:
 
